@@ -10,6 +10,7 @@ module.exports={
             .set('components',resolve('@/components'))
             .set('views',resolve('./src/views'))
             .set('assets',resolve('./src/assets'))
+            .set('network',resolve('./src/network'))
             .set('common',resolve('./src/components/common'))
             .set('content',resolve('./src/components/content'))
         //set第一个参数：设置的别名，第二个参数：设置的路径
