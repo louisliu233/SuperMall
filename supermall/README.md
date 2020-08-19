@@ -1,4 +1,4 @@
-# supermall
+# supermall模仿芝麻街掌上商城
 
 ## Project setup
 ```
